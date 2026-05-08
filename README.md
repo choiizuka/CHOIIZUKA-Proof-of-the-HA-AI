@@ -1,4 +1,4 @@
-# Proof of the HA-AI
+# CHOIIZUKA Proof of the HA-AI
 
 ## Deterministic Validation of Cognitive Identity and Peak Throughput
 
