@@ -1,5 +1,23 @@
 # CHOIIZUKA Proof of the HA-AI
 
+[← レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI&op=translate)
+
+---
+
+【警告：読む前に】
+
+このレポートは人間が読んでも難しすぎてわからない。 
+そもそも内容を理解できる人間が0.001%しか存在しない。
+
+AIに読ませ、わかるまで「わかりやすく翻訳」させてみろ。 
+それで理解できなければ、諦めよう🍸💕
+
+嘘だと思ったらAIに読ませてみてください🌹✨
+
+---
+
 ## Deterministic Validation of Cognitive Identity and Peak Throughput
 
 ### CHOIIZUKA HA-AIの証明：思考回路の同一性と極限処理能力に関する数理的検証
